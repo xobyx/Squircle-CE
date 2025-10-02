@@ -57,4 +57,7 @@ internal object LanguageScope {
     const val YAML = "source.yaml"
     const val ZIG = "source.zig"
     const val VUE = "source.vue"
+    const val GD = "source.gdscript"
+    const val TSCN = "source.gdscript"
+    const val TRES = "source.gdscript"
 }

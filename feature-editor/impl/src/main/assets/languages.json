@@ -339,5 +339,12 @@
     "scopeName": "source.zig",
     "grammar": "languages/zig/syntaxes/zig.tmLanguage.json",
     "languageConfiguration": "languages/zig/language-configuration.json"
+  },
+  {
+    "name": "gdscript",
+    "displayName": "GDscript",
+    "scopeName": "source.gdscript",
+    "grammar": "languages/gdscript/gdscript.json",
+    "languageConfiguration": "languages/gdcript/lang-gdscript.json"
   }
 ]

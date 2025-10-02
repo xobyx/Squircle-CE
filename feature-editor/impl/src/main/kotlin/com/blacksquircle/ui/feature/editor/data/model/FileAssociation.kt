@@ -302,6 +302,9 @@ internal object FileAssociation {
         associations[".zig"] = LanguageScope.ZIG
         associations[".zon"] = LanguageScope.ZIG
         associations[".vue"] = LanguageScope.VUE
+        associations[".gd"] = LanguageScope.GD
+        associations[".tscn"] = LanguageScope.TSCN
+        associations[".tres"] = LanguageScope.TRES
     }
 
     fun guessLanguage(extension: String): String? {
